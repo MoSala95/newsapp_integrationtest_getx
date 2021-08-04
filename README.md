@@ -1,5 +1,11 @@
 # newsapp_integrationtest_getx
 
+This is a news app using https://newsapi.org/ api please visit the website and create your own key .
+In this project you will learn:
+- how to use getX as state management
+- how to make authanticated api calls
+- hot to do integration test 
+
 A new Flutter project.
 
 ## Getting Started
